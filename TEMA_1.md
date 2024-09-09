@@ -82,6 +82,12 @@
 ![image](https://github.com/user-attachments/assets/7cc8c9f1-f09f-4c15-881a-eb468d418aa1)
 
 2.13. Исправление коммита
+![image](https://github.com/user-attachments/assets/b881cc83-caf1-4bf8-8785-d3c7532799ad)
+![image](https://github.com/user-attachments/assets/8a0c949d-e807-46c2-ab56-fc87c26ada79)
+
 2.14. Разрешение конфликтов при слиянии
+![image](https://github.com/user-attachments/assets/8dc7ba5f-a5fb-46c6-8b49-c88282efbdd4)
+
 2.15. Настройка .gitignore
- 
+ ![image](https://github.com/user-attachments/assets/29a367b7-edf0-455b-9eb0-005e949f4ed6)
+
