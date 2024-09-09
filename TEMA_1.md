@@ -53,11 +53,34 @@
 ![image](https://github.com/user-attachments/assets/d68f9c46-b9df-4871-8cb1-c776856adece)
 
 2.8. Особенности применения «Фетч»
+![image](https://github.com/user-attachments/assets/959d3b65-32c8-499f-898d-d47faed6ed3d)
 
 2.9. Удаление файлов, веток, локальных и удалённых репозиториев
+Удаление файла:
+![image](https://github.com/user-attachments/assets/3800c42e-44ba-4d71-b257-1e21a1bd5219)
+Удаление локальной ветки:
+![image](https://github.com/user-attachments/assets/6495d352-3a80-4498-80fe-fd2313e5c74b)
+
+Удаление Удаленной ветки:
+![image](https://github.com/user-attachments/assets/bd51bfbf-26ea-4244-afff-34d829c9f3a2)
+
+Удаление локального репозитория:
+![image](https://github.com/user-attachments/assets/5d9aab56-dcad-475d-bb05-9778c3cec577)
+
+Удаление удаленного репозитория:
+![image](https://github.com/user-attachments/assets/b311a49c-425c-4a57-8ced-98a1ed266b00)
+
 2.10. Отслеживание изменений в коммитах
+![image](https://github.com/user-attachments/assets/df0f8925-313b-45c9-8680-fb5773878a32)
+![image](https://github.com/user-attachments/assets/a654c3c2-f18d-476f-8fa4-66da1b21cbf0)
+
 2.11. Возвращение файла к предыдущему (определенному) состоянию
+![image](https://github.com/user-attachments/assets/733aae29-d3ee-4d84-ab57-d8cf97034d85)
+![image](https://github.com/user-attachments/assets/8b4b7746-334a-4b1a-a7b0-ec2eec9c9e20)
+
 2.12. Возвращение к предыдущему коммиту
+![image](https://github.com/user-attachments/assets/7cc8c9f1-f09f-4c15-881a-eb468d418aa1)
+
 2.13. Исправление коммита
 2.14. Разрешение конфликтов при слиянии
 2.15. Настройка .gitignore
