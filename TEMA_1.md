@@ -14,8 +14,15 @@
 (не сохранился скрин из консоли ☹)
 
 2.3. Создание нового репозитория
-![image](https://github.com/user-attachments/assets/036f672d-3dd1-4e59-afbe-8baca52a47be)
+![image](https://github.com/user-attachments/assets/e6f99e0c-42f1-4f07-a6e8-ce6a1be98404)
+
 2.4. Подготовка файлов
+
+Добавление одного файла:
+![image](https://github.com/user-attachments/assets/bd007c80-15e1-4d5a-a5e2-282df400ac47)
+Проверка статуса:
+![image](https://github.com/user-attachments/assets/e3469f6d-ea54-4edd-add5-e67b45692d08)
+
 2.5. Фиксация изменений
 2.6. Подключение к удаленному репозиторию
 2.7. Ветвление
