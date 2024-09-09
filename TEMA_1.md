@@ -42,7 +42,18 @@
 
 2.7. Ветвление
 
+Создание новой ветки:
+![image](https://github.com/user-attachments/assets/8745906a-8f60-44a1-a5d4-5786c54dc175)
+
+Переключение на новую ветку:
+![image](https://github.com/user-attachments/assets/3c9572b3-058e-4e3a-ab2d-25a8d65ed92f)
+
+Слияние веток:
+![image](https://github.com/user-attachments/assets/9ffa4d8a-86d0-4a80-8cd0-fdae0458edf2)
+![image](https://github.com/user-attachments/assets/d68f9c46-b9df-4871-8cb1-c776856adece)
+
 2.8. Особенности применения «Фетч»
+
 2.9. Удаление файлов, веток, локальных и удалённых репозиториев
 2.10. Отслеживание изменений в коммитах
 2.11. Возвращение файла к предыдущему (определенному) состоянию
