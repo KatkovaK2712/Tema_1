@@ -24,6 +24,19 @@
 ![image](https://github.com/user-attachments/assets/e3469f6d-ea54-4edd-add5-e67b45692d08)
 
 2.5. Фиксация изменений
+
+Как сделать коммит:
+![image](https://github.com/user-attachments/assets/60e0cb75-a209-4b4c-842e-0e5738ebfdeb)
+Как просмотреть коммиты:
+- Просмотр истории коммитов
+![image](https://github.com/user-attachments/assets/c0444bb3-40b0-49db-8473-a40d8d94ffe0)
+- Ограничение количества выводимых коммитов
+![image](https://github.com/user-attachments/assets/917c27bb-0eee-4af2-9b17-3d1a15db2356)
+- Краткий вывод коммитов
+![image](https://github.com/user-attachments/assets/e28e070a-dc3f-45b8-a39a-ed254c4af4e2)
+- Графическое представление истории
+![image](https://github.com/user-attachments/assets/9ec71770-43eb-4baa-9047-9460b511f675)
+
 2.6. Подключение к удаленному репозиторию
 2.7. Ветвление
 2.8. Особенности применения «Фетч»
